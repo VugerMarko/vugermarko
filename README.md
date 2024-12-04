@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Marko and I am a passionate coder with quite and interest in programming
+My name is Marko and I am a passionate coder with quite an interest in programming
 
 - 🔭 I’m currently working on NPC Generator for Dungeons & Dragons
 - 🌱 I’m currently learning Python automatization and SQL
