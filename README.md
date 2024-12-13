@@ -2,7 +2,7 @@
 
 My name is Marko and I am a passionate coder with quite an interest in programming
 
-- 🔭 I’m currently working on NPC Generator for Dungeons & Dragons
+- 🔭 I’m currently working on Web Scraper for guitar product discounts
 - 🌱 I’m currently learning Python automatization and SQL
 - 📫 How to reach me: [info@markovuger.com](info@markovuger.com)
 
