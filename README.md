@@ -2,8 +2,8 @@
 
 My name is Marko and I am a passionate coder with quite an interest in programming
 
-- 🔭 I’m currently working on Web Scraper for guitar product discounts
-- 🌱 I’m currently learning Python automatization and SQL
+- 🔭 I’m currently working on Full Stack E-commerce app in React+Vite
+- 🌱 I’m currently learning React
 - 📫 How to reach me: [info@markovuger.com](info@markovuger.com)
 
 
