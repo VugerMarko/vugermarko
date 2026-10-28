@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-<!--
+
 My name is Marko and I am a passionate coder with quite an interest in programming
 
-- 🔭 I’m currently working on Full Stack E-commerce app in React+Vite
-- 🌱 I’m currently learning React
-- 📫 How to reach me: [info@markovuger.com](info@markovuger.com)
+- 🔭 I’m currently working on OSINT Target Tracker
+- 🌱 I’m currently learning Docker, RestAPI, FastAPI and PostgreSQL
 
---!>
 <!--
 **VugerMarko/vugermarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
